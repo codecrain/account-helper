@@ -1,0 +1,20 @@
+{
+    "live": {
+        "connectionLimit"    : 20,
+        "waitForConnections" : false,
+        "port"               : 3306,
+        "host"               : "",
+        "user"               : "codecrain",
+        "password"           : "codecrain2018",
+        "database"           : "Sellev"
+    },
+    "dev": {
+        "connectionLimit"    : 20,
+        "waitForConnections" : false,
+        "port"               : 3306,
+        "host"               : "127.0.0.1",
+        "user"               : "root",
+        "password"           : "development",
+        "database"           : "Sellev"
+    }
+}
